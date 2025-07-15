@@ -15,7 +15,7 @@ const seedProducts = [
 		"brand": "Hollister",
 		"price": 750000,
 		"color": "biru muda",
-		"size": "M"
+		"category": "Baju"
 		
 	},
 	{
@@ -23,7 +23,7 @@ const seedProducts = [
 		"brand": "Levi's",
 		"price": 900000,
 		"color": "krem",
-		"size": "XL"
+		"category": "Celana"
 		
 	},
 	{
@@ -31,7 +31,7 @@ const seedProducts = [
 		"brand": "Gap",
 		"price": 650000,
 		"color": "merah muda",
-		"size": "M"
+		"category": "Jaket"
 		
 	},
 	
@@ -40,7 +40,7 @@ const seedProducts = [
 		"brand": "Herschel",
 		"price": 1500000,
 		"color": "biru",
-		"size": "L"
+		"category": "Aksesoris"
 	
 	},
 	{
@@ -48,7 +48,7 @@ const seedProducts = [
 		"brand": "Ray-Ban",
 		"price": 2000000,
 		"color": "emas",
-		"size": "L"
+		"category": "Aksesoris"
 		
 	},
 	{
@@ -56,7 +56,7 @@ const seedProducts = [
 		"brand": "Speedo",
 		"price": 500000,
 		"color": "biru tua",
-		"size": "S"
+		"category": "Baju"
 		
 	},
 	{
@@ -64,7 +64,7 @@ const seedProducts = [
 		"brand": "New Era",
 		"price": 350000,
 		"color": "hitam",
-		"size": "M"
+		"category": "Aksesoris"
 		
 	},
 	{
@@ -72,7 +72,7 @@ const seedProducts = [
 		"brand": "Zara",
 		"price": 850000,
 		"color": "abu-abu",
-		"size": "M"
+		"category": "Aksesoris"
 	
 	},
 	{
@@ -80,7 +80,7 @@ const seedProducts = [
 		"brand": "Hugo Boss",
 		"price": 4500000,
 		"color": "hitam",
-		"size": "S"
+		"category": "Baju"
 		
 	},
 	
